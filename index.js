@@ -19,5 +19,5 @@ app.post('/omar',(req,res)=>{
 });
 
 app.listen(2000,(req,res)=>{
-console.log("server is listining on port A7A");
+console.log("server is listining on port 2000");
 });
